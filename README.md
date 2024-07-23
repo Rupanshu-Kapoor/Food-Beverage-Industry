@@ -21,11 +21,14 @@ Additional details about the dataset and the survey copy have been uploaded in t
 2. Age Group Preferences: The sweet spot for CodeX is individuals aged 19-30.
 3. Marketing Channel for Youth (15-30): Online advertising shines as the most effective channel for reaching the youth demographic.
 ```
+![demography](https://github.com/Rupanshu-Kapoor/Food-Beverage-Industry/blob/main/Dashboard%20Snapshots/2.%20demography.png)
+
 ```
 ~ Consumer Preferences
 1. Preferred Ingredients: Caffeine emerges as the champion among customer preferences.
 2. Packaging Preferences: Compact and portable cans steal the show in packaging preferences.
 ```
+![preferences](https://github.com/Rupanshu-Kapoor/Food-Beverage-Industry/blob/main/Dashboard%20Snapshots/3.%20consumer.png)
 ```
 ~ Competition Analysis
 1. Market Leaders: Cola Coka holds its ground as a market leader, while CodeX is quickly climbing the ranks.
@@ -36,6 +39,7 @@ Additional details about the dataset and the survey copy have been uploaded in t
 1. Effective Marketing Channels: Online ads lead the way in reaching customers effectively.
 2. Effectiveness of Different Channels for CodeX: Online ads continue to be the most effective for CodeX customers.
 ```
+![market](https://github.com/Rupanshu-Kapoor/Food-Beverage-Industry/blob/main/Dashboard%20Snapshots/4.%20market.png)
 ```
 ~ Brand Penetration
 1. Overall Brand Perception: Customers with prior experience generally hold a positive or neutral perception.
@@ -73,7 +77,7 @@ Additional details about the dataset and the survey copy have been uploaded in t
 - Open the CodeX_analysis.pbix file in Power BI Desktop.
 - Dive into the visualizations to explore insights dynamically.
 
-Dashboard Screenshots are available in *CodeX Dashboard Snapshots* folder
+Dashboard Screenshots are available in *Dashboard Snapshots* folder
 <br>
 <br>
 
